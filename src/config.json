@@ -1,0 +1,6 @@
+
+{
+    "areas": ["A", "B", "C", "D"],
+    "limite_umidade": 25.0,
+    "vazao_padrao": 10.0
+  }
